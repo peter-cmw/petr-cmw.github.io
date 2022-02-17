@@ -1,0 +1,16 @@
+.article-page-container {
+    width: 860px
+}
+.included-text {
+    width: 90%;
+    margin: auto;
+    margin-bottom: 37px;
+}
+
+.duration-note {
+    font-size: 12px;
+	padding: 8px 0;
+	max-width: 200px;
+	color: #ce1628;
+	font-weight: 600;
+}
